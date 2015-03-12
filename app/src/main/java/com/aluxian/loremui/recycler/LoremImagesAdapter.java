@@ -1,4 +1,4 @@
-package com.aluxian.loremui.list;
+package com.aluxian.loremui.recycler;
 
 import android.animation.ArgbEvaluator;
 import android.animation.ValueAnimator;
